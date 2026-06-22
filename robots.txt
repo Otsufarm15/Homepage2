@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://otsufarm15.github.io/Homepage2/sitemap.xml
